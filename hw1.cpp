@@ -29,5 +29,7 @@ int main (int argc, char ** argv)
 	Server S (filename);
 	cin >> S;
 	cout << S;
+	
+	
 	return 0;
 }
