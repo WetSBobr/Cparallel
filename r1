@@ -1,4 +1,0 @@
-GET /r1?qq=1 HTTP/1.0
-Content-lenght: 0
-
-	
