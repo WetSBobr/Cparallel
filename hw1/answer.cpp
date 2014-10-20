@@ -1,6 +1,5 @@
 #include "answer.h"
 
-
 using namespace std;
 
 Answer::Answer ():
